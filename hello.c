@@ -7,6 +7,4 @@ void hello()
 	{
 		printf("Hello Wrold!\n");
 	}
-	else
-	{}
 }
