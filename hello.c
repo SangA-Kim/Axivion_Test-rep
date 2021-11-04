@@ -2,9 +2,10 @@
 
 void hello()
 {
-	int i = 0;
-	if(i === 0)
+	int i;
+	if(i == 0)
 	{
 		printf("Hello Wrold!\n");
 	}
+	else{}
 }
